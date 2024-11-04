@@ -1,0 +1,1 @@
+{"passengers": {"2001": {"name": "praccho", "age": 20, "seat_status": "Waiting", "food_order": ["Chicken"]}}, "trains": {"412": {"route": "Dhaka", "total_seats": 0, "passengers": [], "waiting_list": ["2001"]}}}
